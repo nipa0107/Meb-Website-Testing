@@ -7,8 +7,7 @@ This test validates user login with valid credentials and ensures that the syste
 
 ## 🔧 Tech Stack
 
-- [Cypress](https://www.cypress.io/) v12+
-- JavaScript
+- [Cypress](https://www.cypress.io/)
 
 ## 🖥️ Function to be tested 
 Designed testing workflows in collaboration with the team, incorporating both manual and automated techniques.
