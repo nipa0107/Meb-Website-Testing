@@ -1,4 +1,4 @@
-# Automated & Manual Testing for Meb E-book Website
+# Automated & Manual Testing for Meb market Website
 
 Automated end-to-end test using Cypress for the login functionality of [MebMarket](https://www.mebmarket.com/)  
 This test validates user login with valid credentials and ensures that the system behaves as expected.
